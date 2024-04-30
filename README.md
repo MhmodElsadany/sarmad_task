@@ -1,6 +1,5 @@
 # sarmad_task
 
-A new Flutter project.
 
 screensshots
 ![1](https://github.com/MhmodElsadany/sarmad_task/assets/26444454/54f48f3d-9d3b-45fb-8cc2-cf00c1514ab8)
